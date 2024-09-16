@@ -1,0 +1,48 @@
+.banner {
+    width: 65vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-scroller {
+    background-color: #68D2E8;
+}
+
+.flex-column {
+    border: 2px solid;
+    border-radius: 2rem;
+    padding: 2rem;
+    margin: 2rem;
+}
+
+.tab-content {
+    border: 2px solid;
+    border-radius: 2rem;
+    padding: 2rem;
+    margin: 2rem;
+}
+
+.home-heading {
+    color: #B8001F;
+    font-size: 1.8rem;
+    text-align: center;
+    margin: 1rem;
+}
+
+.home-subheading {
+    color: #507687;
+    font-size: 1.5rem;
+}
+
+.home-content {
+    font-size: 1.2rem;
+}
+
+.home-contact {
+    font-size: 1.2rem;
+}
+
+.link-content {
+    color: black;
+}

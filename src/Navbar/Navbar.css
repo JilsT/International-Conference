@@ -1,0 +1,11 @@
+.bg-body-tertiary {
+    width: 65vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home-navbar {
+    background-color: orange;
+    border-radius: 1rem;
+    /* padding: 0 5rem; */
+}
